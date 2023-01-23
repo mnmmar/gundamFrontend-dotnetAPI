@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+Approach Taken:
+I wanted to learn how to use C# with the Dotnet Framework. I ended up using it as a backend in this projuect with the React frontend and MongoDB database. I decided to take things reallly slow to absorb the information and avoid burn out. So instead of doing everything at once, I tackled C# first like Matt suggested. I focused on the landscape terminal game, which surprisingly went really well! Afterwards, I focused on my portfolio and finished it up. I was saving the hardest for last (DotNet) because I was so intimidated. I even made a React app of a remake of the Epress app from unit 2 as Jason suggested just in case I can't figure it out. Afterwards, I tackled DotNet, which honestly is not as bad as I was making it out to be in my head! I just focused on the documents they had up on Microsoft and it was pretty self explanatory everytime I ran into a problem so that was super nice. I ended up building 4 projects because of that and honestly, I'm glad I did. I made good use of my time and got more practice. I just kept trying to remake the same project with each new technology and it honestly really helped me learn the differences. I was able to focus on using the new technologies more and not on the actual website idea itself.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Unsolved Problems:
+Wow! I really thought deploying would be under this section but somehow I got it working! Can you believe it? Honestly, I really wanted to add user auth but after learning everything and making all the apps, I decided I just don't have enough time. I worked really slow but it's okay because I lesrned a lot. I will definitely make sure to add it in later on.
 
-## Available Scripts
+Technologies used:
+C#
+DotNet
+MongoDB
+React.js
+Javascript
 
-In the project directory, you can run:
+Resources Links:
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-7.0&tabs=visual-studio-code
+https://learn.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-7.0
+https://dotnet.microsoft.com/en-us/learn/dotnet/hello-world-tutorial/next
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
